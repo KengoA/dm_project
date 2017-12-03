@@ -1,0 +1,2 @@
+mean_fit_time;param_max_depth;param_min_samples_split;param_min_samples_leaf;param_criterion;mean_test_score
+0.0396395921707;5;2;1;gini;0.197368421053
